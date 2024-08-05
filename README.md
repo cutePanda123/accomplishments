@@ -1,2 +1,2 @@
-# achievements
-a repo that saves all my career-related achievements 
+# accomplishments
+This repository showcases all my career and academic-related accomplishments.
